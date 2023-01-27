@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PerimeterApp",
+    "\\PerimeterApp\\PerimeterApp"
   ],
-  "SelectedNode": "\\C:\\Users\\mache\\Lessons\\Lesson2",
+  "SelectedNode": "\\PerimeterApp\\PerimeterApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

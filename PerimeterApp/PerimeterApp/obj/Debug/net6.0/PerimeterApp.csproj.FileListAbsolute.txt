@@ -1,0 +1,15 @@
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\bin\Debug\net6.0\PerimeterApp.exe
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\bin\Debug\net6.0\PerimeterApp.deps.json
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\bin\Debug\net6.0\PerimeterApp.runtimeconfig.json
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\bin\Debug\net6.0\PerimeterApp.dll
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\bin\Debug\net6.0\PerimeterApp.pdb
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.csproj.AssemblyReference.cache
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.AssemblyInfoInputs.cache
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.AssemblyInfo.cs
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.csproj.CoreCompileInputs.cache
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.dll
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\refint\PerimeterApp.dll
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.pdb
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\PerimeterApp.genruntimeconfig.cache
+C:\Users\mache\Lessons\Lesson2\PerimeterApp\PerimeterApp\obj\Debug\net6.0\ref\PerimeterApp.dll
