@@ -26,7 +26,7 @@
         public static Point EnterAndPrintPoint(string pointName)
         {
             Console.WriteLine($"Please enter the coordinates for point { pointName }:");
-            var point = new Point();
+            var point = new Point(0, 0);
             point.GetFromKeyboard();
             point.PrintTheCoordinates();
             return point;

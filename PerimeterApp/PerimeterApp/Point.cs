@@ -22,6 +22,15 @@ namespace PerimeterApp
         public double Y { get; private set; }
 
         /// <summary>
+        /// Constructor
+        /// </summary>
+        public Point(double x, double y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        /// <summary>
         /// A method to get the point from keyboard.
         /// </summary>
         public void GetFromKeyboard()
